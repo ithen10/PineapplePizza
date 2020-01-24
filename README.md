@@ -23,4 +23,5 @@ Sadly, no.
 - This was our first endeavor into image processing and we learned many tools and methods that could be used. We went with the easiest (not the best) method of color detection due to the time limit. 
 - That hackathons are really fun and everyone is really helpful. (Ian: This was my first time at a hackathon and I really regret not doing one sooner)
 
-
+# Note
+We will revisit this project again when we have some more free time. Fret not pineapple haters, your dreams of no pineapple on pizza will come true.
